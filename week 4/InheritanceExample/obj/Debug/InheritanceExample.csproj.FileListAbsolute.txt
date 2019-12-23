@@ -1,0 +1,7 @@
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\obj\Debug\InheritanceExample.csprojAssemblyReference.cache
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\InheritanceExample\obj\Debug\InheritanceExample.pdb

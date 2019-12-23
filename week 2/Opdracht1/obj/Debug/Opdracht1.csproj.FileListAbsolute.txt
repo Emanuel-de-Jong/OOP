@@ -1,0 +1,7 @@
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\bin\Debug\Opdracht1.exe.config
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\bin\Debug\Opdracht1.exe
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\bin\Debug\Opdracht1.pdb
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\obj\Debug\Opdracht1.csprojAssemblyReference.cache
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\obj\Debug\Opdracht1.csproj.CoreCompileInputs.cache
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\obj\Debug\Opdracht1.exe
+D:\Data\School\Programeren\OOP\Week2\OOPWeek2\Opdracht1\obj\Debug\Opdracht1.pdb

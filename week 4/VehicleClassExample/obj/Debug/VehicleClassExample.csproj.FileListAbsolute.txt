@@ -1,0 +1,7 @@
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\bin\Debug\VehicleClassExample.exe.config
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\bin\Debug\VehicleClassExample.exe
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\bin\Debug\VehicleClassExample.pdb
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\obj\Debug\VehicleClassExample.csprojAssemblyReference.cache
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\obj\Debug\VehicleClassExample.csproj.CoreCompileInputs.cache
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\obj\Debug\VehicleClassExample.exe
+D:\Data\School\Programeren\OOP\Week4\OOPWeek4\VehicleClassExample\obj\Debug\VehicleClassExample.pdb

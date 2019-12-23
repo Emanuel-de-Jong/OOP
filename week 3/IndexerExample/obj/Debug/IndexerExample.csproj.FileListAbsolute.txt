@@ -1,0 +1,7 @@
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\bin\Debug\IndexerExample.exe.config
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\bin\Debug\IndexerExample.exe
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\bin\Debug\IndexerExample.pdb
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\obj\Debug\IndexerExample.csprojAssemblyReference.cache
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\obj\Debug\IndexerExample.csproj.CoreCompileInputs.cache
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\obj\Debug\IndexerExample.exe
+D:\Data\School\Programeren\OOP\Week3\OOPWeek3\IndexerExample\obj\Debug\IndexerExample.pdb
