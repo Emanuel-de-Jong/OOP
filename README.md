@@ -1,7 +1,7 @@
 # OOP
  
 ## Description
-These are projects I make/made during my Object-oriented programming lessons.
+These are projects made during my Object-oriented programming lessons.
 They include more advanced topics like Indexers and Events.
 
 
@@ -13,4 +13,5 @@ They include more advanced topics like Indexers and Events.
 
 ## Progress
 - Start date: 09.09.19
-- Activity status: Ongoing
+- Last change: 13.12.19
+- Activity status: Complete
